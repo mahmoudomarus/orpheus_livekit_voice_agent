@@ -45,4 +45,4 @@ The Orpheus TTS plugin accepts the following parameters:
 
 Orpheus is a high-quality text-to-speech model hosted on Baseten. It provides natural-sounding voices and is accessible via a simple API.
 
-To get your own API key, sign up on Baseten and deploy the Orpheus model to your account.
+To get your own API key, sign up on https://www.baseten.co/library/orpheus-tts/ Baseten and deploy the Orpheus model to your account.
