@@ -16,7 +16,6 @@ This project demonstrates how to use Orpheus TTS (hosted on Baseten) with Liveki
    LIVEKIT_API_KEY=
    LIVEKIT_API_SECRET=
    OPENAI_API_KEY=your_openai_api_key
-   ASSEMBLYAI_API_KEY=your_assemblyai_api_key # if using AssemblyAI for STT
    ```
    
    Make sure to replace `your_orpheus_api_key` with your actual Baseten API key for Orpheus TTS.
