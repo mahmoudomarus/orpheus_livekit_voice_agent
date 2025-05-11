@@ -25,11 +25,6 @@ This project demonstrates how to use Orpheus TTS (hosted on Baseten) with Liveki
    ```bash
    python voice_agent_openai.py
    ```
-   
-   Or if you want to use the Ollama version:
-   ```bash
-   python "voice_agent (1).py"
-   ```
 
 ## Components
 
