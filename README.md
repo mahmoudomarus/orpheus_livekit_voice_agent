@@ -12,9 +12,9 @@ This project demonstrates how to use Orpheus TTS (hosted on Baseten) with Liveki
 3. Create a `.env` file with your API keys:
    ```
    ORPHEUS_API_KEY=your_orpheus_api_key
-   LIVEKIT_URL=wss://bignoodle-bwhouzvj.livekit.cloud
-   LIVEKIT_API_KEY=APIFQrCdYBAuxeE
-   LIVEKIT_API_SECRET=KW6GPLsgQ0YBgOib1GJCaMzTLcR7Tf1ebRlPMD69BQk
+   LIVEKIT_URL=
+   LIVEKIT_API_KEY=
+   LIVEKIT_API_SECRET=
    OPENAI_API_KEY=your_openai_api_key
    ASSEMBLYAI_API_KEY=your_assemblyai_api_key # if using AssemblyAI for STT
    ```
@@ -44,7 +44,7 @@ The Orpheus TTS plugin accepts the following parameters:
 - `api_key`: Your Baseten API key for Orpheus
 - `voice`: The voice to use (default: "tara")
 - `max_tokens`: Maximum number of tokens to generate (default: 10000)
-- `endpoint_url`: The Baseten API endpoint (default: "https://model-2qjn02j3.api.baseten.co/environments/production/predict")
+- `endpoint_url`: The Baseten API endpoint (default: "https://model-****.api.baseten.co/environments/production/predict")
 - `sample_rate`: Audio sample rate (default: 24000)
 
 ## About Orpheus TTS
